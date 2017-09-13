@@ -1,3 +1,87 @@
+   76  ./jocins
+   77  ls
+   78  firefox
+   79  matlab
+   80  firefox &
+   81  matlab
+   82  ifconfig
+   83  python
+   84  cd Nelien\!/
+   85  cd SS-2014/
+   86  git pull
+   87  firefox &
+   88  python
+   89  cd LD2/Python/
+   90  python -u Hadamard\ matrix.py
+   91  python
+   92  python -u Hadamard\ matrix.py
+   93  git status
+   94  cd ../
+   95  git stat
+   96  git status 
+   97  git add Python/
+   98  git status
+   99  git commit -m "Python Hadamard matrix generator created"
+  100  git push origin master
+  101  git push https://github.com/0x4C4A/SS-2014 origin master 
+  102  git push https://github.com/0x4C4A/SS-2014.git origin master 
+  103  git pull
+  104  cd ..
+  105  git push https://github.com/0x4C4A/SS-2014.git origin master 
+  106  git push https://github.com/0x4C4A/SS-2014.git
+  107  python -u Hadamard\ matrix.py
+  108  cd LD2
+  109  cd Python/
+  110  python -u Hadamard\ matrix.py
+  111  clear
+  112  python
+  113  git status
+  114  su
+  115  ssh -X x141REB159@213.175.92.22
+  116  exit
+  117  ssh -X x141REB159
+  118  ssh -X x141REB159@213.175.92.22
+  119  exit
+  120  firefox &
+  121  sudo apt-get install python-matplotlib
+  122  idle
+  123  git
+  124  git checkout
+  125  ls
+  126  cd documents
+  127  ls
+  128  cd ..
+  129  cd images
+  130  ls
+  131  cd ../Nelien!
+  132  ls
+  133  git checkout
+  134  cd SS-2014
+  135  git checkout
+  136  git
+  137  git fetch
+  138  ls
+  139  cd ..
+  140  idle
+  141  matlab
+  142  firefox &
+  143  ls
+  144  cd Nelien\!/
+  145  ls
+  146  rm -r SS-2014/
+  147  rm -rf SS-2014/
+  148  git clone https://github.com/0x4c4a/SS-2014.git
+  149  cd SS-2014/
+  150  ls
+  151  cd LD3
+  152  ls
+  153  matlab
+  154  firefox
+  155  matlab
+  156  ifconfig
+  157  matlab &
+  158  shutdown -h now
+  159  sudo shutdown -h now
   160  firefox &
   161  ssh -X x141REB127@213.175.92.22
   162  firefox &
@@ -914,87 +998,3 @@
  1073  cd apakshdarbi
  1074  ls -la
  1075  history >vesture.txt
- 1076  ls -la
- 1077  cd ..
- 1078  pwd
- 1079  ls -l
- 1080  rmdir apakshdarbi
- 1081  man rmdir
- 1082  rm apakshdarbi
- 1083  rm -rf  apakshdari/
- 1084  ls -la
- 1085  cd /
- 1086  ls
- 1087  mkdir apakshdarbi
- 1088  rm dev
- 1089  rm -rf dev
- 1090  rm dev1
- 1091  cd
- 1092  pwd
- 1093  ls -l
- 1094  cd darbi13
- 1095  pwd
- 1096  echo tecmint is a community of Linux Nerds
- 1097  Tecmint is a community of Linux Nerds
- 1098  x=10
- 1099  echo The value of variable x = x
- 1100  x=10
- 1101  echo The value of variable x = $x
- 1102  echo -e "tecmint \ba \bcommunity \bof \bLinux \bNerds"
- 1103  echo -e "tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
- 1104  echo -e "tecmint \tis \ta \tcommunity \tof \tLinux \tNerds
- 1105  echo -e "tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
- 1106  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
- 1107  cd ..
- 1108  pwd
- 1109  ls -la
- 1110  cd darbi13
- 1111  pwd
- 1112  ls -la
- 1113  git init
- 1114  git add
- 1115  ls -la
- 1116  git config --global user.name rastamaha1998@gmail.com
- 1117  ls -la
- 1118  git config --global user.email rastamaha1998@gmail.com
- 1119  ls la
- 1120  chromium -browser
- 1121  cat a.txt
- 1122  cat b.txt
- 1123  cat c.txt
- 1124  man ls >ls_komandas_apraksts
- 1125  ls -l
- 1126  cat ls_komandas_apraksts
- 1127  cat a.txt > d.txt
- 1128  ls -l
- 1129  cat b.txt > d.txt
- 1130  ls -l
- 1131  cat a.txt > d.txt
- 1132  cat b.txt >> d.txt
- 1133  ls -l
- 1134  cat d.txt
- 1135  cp d.txt dd.txt
- 1136  ls -l
- 1137  cp d.txt dd.txt
- 1138  lf -l
- 1139  ls -l
- 1140  cp d.txt ddd.txt >interese.txt
- 1141  ls -l
- 1142  d.txt ../cl.txt
- 1143  pwd
- 1144  cd ..
- 1145  pwd
- 1146  cp c1.txt darbi/c2.txt
- 1147  cd darbi13
- 1148  cd /
- 1149  mv ~/darbi13/ls_komandas_apraksts ~/
- 1150  cd
- 1151  ls -l
- 1152  cd darbi13
- 1153  ls -l
- 1154  pwd
- 1155  cd darbi13
- 1156  ls -la
- 1157  git add .
- 1158  ls -la
- 1159  history > history.txt
