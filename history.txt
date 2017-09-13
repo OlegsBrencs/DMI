@@ -1,0 +1,1000 @@
+   44  xclock&exit
+   45  software-center
+   46  open systemview
+   47  open&systemview
+   48  firefox &
+   49  matlab &
+   50  ssh-X x131REB291@192.168.2.17
+   51  firefox&
+   52  ssh -X x131REB212@192.168.2.17
+   53  exit
+   54  matlab
+   55  firefox
+   56  logoff
+   57  logout
+   58  exit
+   59  matlab &
+   60  firefox &
+   61  ls
+   62  firefox &
+   63  ssh -X xjk@213.175.92.22
+   64  ssh -X xjk@213.175.92.26
+   65  matlab &
+   66  firefox &
+   67  gcc
+   68  ls
+   69  nano jocins.c
+   70  gcc jocins.c
+   71  nano jocins.c
+   72  gcc jocins.c
+   73  ls
+   74  gcc --help
+   75  gcc jocins.c -o jocins
+   76  ./jocins
+   77  ls
+   78  firefox
+   79  matlab
+   80  firefox &
+   81  matlab
+   82  ifconfig
+   83  python
+   84  cd Nelien\!/
+   85  cd SS-2014/
+   86  git pull
+   87  firefox &
+   88  python
+   89  cd LD2/Python/
+   90  python -u Hadamard\ matrix.py
+   91  python
+   92  python -u Hadamard\ matrix.py
+   93  git status
+   94  cd ../
+   95  git stat
+   96  git status 
+   97  git add Python/
+   98  git status
+   99  git commit -m "Python Hadamard matrix generator created"
+  100  git push origin master
+  101  git push https://github.com/0x4C4A/SS-2014 origin master 
+  102  git push https://github.com/0x4C4A/SS-2014.git origin master 
+  103  git pull
+  104  cd ..
+  105  git push https://github.com/0x4C4A/SS-2014.git origin master 
+  106  git push https://github.com/0x4C4A/SS-2014.git
+  107  python -u Hadamard\ matrix.py
+  108  cd LD2
+  109  cd Python/
+  110  python -u Hadamard\ matrix.py
+  111  clear
+  112  python
+  113  git status
+  114  su
+  115  ssh -X x141REB159@213.175.92.22
+  116  exit
+  117  ssh -X x141REB159
+  118  ssh -X x141REB159@213.175.92.22
+  119  exit
+  120  firefox &
+  121  sudo apt-get install python-matplotlib
+  122  idle
+  123  git
+  124  git checkout
+  125  ls
+  126  cd documents
+  127  ls
+  128  cd ..
+  129  cd images
+  130  ls
+  131  cd ../Nelien!
+  132  ls
+  133  git checkout
+  134  cd SS-2014
+  135  git checkout
+  136  git
+  137  git fetch
+  138  ls
+  139  cd ..
+  140  idle
+  141  matlab
+  142  firefox &
+  143  ls
+  144  cd Nelien\!/
+  145  ls
+  146  rm -r SS-2014/
+  147  rm -rf SS-2014/
+  148  git clone https://github.com/0x4c4a/SS-2014.git
+  149  cd SS-2014/
+  150  ls
+  151  cd LD3
+  152  ls
+  153  matlab
+  154  firefox
+  155  matlab
+  156  ifconfig
+  157  matlab &
+  158  shutdown -h now
+  159  sudo shutdown -h now
+  160  firefox &
+  161  ssh -X x141REB127@213.175.92.22
+  162  firefox &
+  163  halt
+  164  matlab 
+  165  matlab ssh -X x141REB187@213.175.92.22
+  166  ssh -X x141REB187@213
+  167  ssh -X x141REB187@213.175.92.22
+  168  firefox
+  169  ssh -X x141REB141@213.175.92.22
+  170  ifconfig 
+  171  less /proc/cpu
+  172  less /proc/cpuinfo
+  173  matlab
+  174  virtual box
+  175  virtualbox
+  176  firefox
+  177  quartus
+  178  matlab
+  179  virtualbox
+  180  matlab
+  181  firefox
+  182  matlab
+  183  octave
+  184  matlab
+  185  mkatlab
+  186  matlab
+  187  nano
+  188  gcc 01.c
+  189  ls
+  190  nano 01.c
+  191  01.c
+  192  01
+  193  nano
+  194  gcc 01.c
+  195  ./a. 01.c
+  196  ./a. out
+  197  matlab
+  198  virtual box
+  199  virtualbox
+  200  matlab
+  201  firefox
+  202  matlab
+  203  firefox
+  204  top
+  205  system view
+  206  ls
+  207  pwd
+  208  sudo
+  209  matlab
+  210  ls
+  211  cd Nelien!
+  212  ls
+  213  cd SS-2014/
+  214  ls
+  215  less README.md 
+  216  nano kompresors.mdl
+  217  cd C
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd SS-2014/
+  222  ls
+  223  cd LD1
+  224  ls
+  225  nano SSLD1_script.m -r
+  226  nano SSLD1_script.m
+  227  matlab
+  228  ls
+  229  cd downloads
+  230  ls
+  231  cd jk
+  232  ls
+  233  cd
+  234  ls
+  235  cd Desktop/
+  236  ls
+  237  cd
+  238  crome
+  239  firefox
+  240  ls
+  241  cd documents/
+  242  ls
+  243  cd
+  244  ls
+  245  wine Csmith
+  246  cd downloads/
+  247  ls
+  248  fIREFOX@
+  249  FIREFOX @
+  250  firefox @
+  251  firebox
+  252  mozzila
+  253  firefox
+  254  ssh -X x151REB078@213
+  255  ssh -X x151REB078@213.175.92.22
+  256  exit
+  257  ssh -X x151REB078@213.175.92.22
+  258  exit
+  259  exit
+  260  systemview
+  261  run systemview
+  262  firefox
+  263  radhasoami29
+  264  ps
+  265  ssh -X x151REB078@21317592.22
+  266  ssh -X x151REB078@213.175.92.22
+  267  exit
+  268  matlab
+  269  ssh -X x151REB191@213.175.92.22
+  270  rm *
+  271  ls
+  272  mc
+  273  matlab
+  274  ssh -X x151REB078@213.175.92.22
+  275  exit
+  276  firefox
+  277  chrome-browser
+  278  chromium-browser
+  279  ssh -X x161REB153@213.175.92.22
+  280  firefox
+  281  exit
+  282  firefox &
+  283  ssh -X x161REB277@213.175.92.22
+  284  ssh -X x141REB277@213.175.92.22
+  285  exit
+  286  ssh -X x161REB153@213.175.92.22
+  287  ssh -X x161REB153@213.175.92.22
+  288  firefox 
+  289  chromium-browser 
+  290  firefox
+  291  chromium-browser
+  292  windows
+  293  windows-xp
+  294  windowsxp
+  295  xp
+  296  XP
+  297  windowsXP
+  298  windows
+  299  windows95
+  300  word
+  301  words
+  302  windowsXP
+  303  WINDOWSXP
+  304  WINDOWS
+  305  Windows
+  306  FIREFOX
+  307  firefox
+  308  exit
+  309  uname -r
+  310  uname -mrs
+  311  cat /proc/version 
+  312  cat /etc/*release
+  313  git clone https://git.code.sf.net/p/qucs/git qucs-git
+  314  ls -la
+  315  ls -lat
+  316  cd qucs-git/
+  317  ls -lat
+  318  ./bootstrap 
+  319  make
+  320  cd qucs
+  321  ls -lat
+  322  cd qucs
+  323  ls -lat
+  324  cd ..
+  325  ls -lat
+  326  ./bootstrap 
+  327  cd ..
+  328  ls -lat
+  329  cd qucs-git/
+  330  ls -lat
+  331  ./bootstrap 
+  332  cd qucs
+  333  ./bootstrap 
+  334  ls -lat
+  335  cd qucs
+  336  ls -lat
+  337  cd ..
+  338  cd qucs-git/
+  339  ./concd
+  340  cd
+  341  ls -lat
+  342  cd downloads/
+  343  ls -lat
+  344  exit
+  345  su sc
+  346  su root
+  347  su sc
+  348  sudo su
+  349  su sc
+  350  su rtu
+  351  matlab
+  352  exit
+  353  ssh -X xmate@213.175.92.22
+  354  lsb
+  355  exit
+  356  firefox
+  357  exit
+  358  qucs
+  359  ssh -X xtaso@
+  360  ssh -X xtaso@213.175.92.37
+  361  exit
+  362  ssh -X x161REB153@213.175.92.22
+  363  exit
+  364  ssh -X x161REB153@213.175.92.22
+  365  ssh -X x161REB153@213.175.92.37
+  366  firefox
+  367  chrome
+  368  internet
+  369  explorer
+  370  firefox
+  371  ssh -X xmate@213.175.92.22
+  372  exit
+  373  ssh
+  374  -X
+  375  ssg -X x161REB080 213.175.92.37
+  376  ssh -X x161REB080 213.175.92.37
+  377  ssh -X  213.175.92.37
+  378  111
+  379  ssh -X  213.175.92.37
+  380  ssh -X x161REB080@213.175.92.37
+  381  exit
+  382  ssh-X x141REB129@213.175.92.22
+  383  ssh- Xx141REB129@213.175.92.22
+  384  ssh- X x141REB129@213.175.92.22
+  385  ssh - X x141REB129@213.175.92.22
+  386  ssh - Xx141REB129@213.175.92.22
+  387  ssh - X x141REB129@213.175.92.22
+  388  ssh -X x141REB129@213.175.92.22
+  389  ksnapshot
+  390  matlab
+  391  ksnapshot
+  392  ssh -X x141REB129@213.175.92.22
+  393  ssh -X x161REB153@213.175.92.22
+  394  firefox
+  395  ssh -X 161REB153@213.175.92.22
+  396  ssh -X x161REB153@213.175.92.22
+  397  chromium-browser
+  398  ssh -X x161REB153@213.175.92.22
+  399  ssh -X x151REB079
+  400  ssh -X x151REB079@213.175.92.37
+  401  chromium-browser
+  402  ssh -X x161REB153@213.175.92.37
+  403  firefox
+  404  ssh -X x161REB131@213.175.92.22
+  405  matlab
+  406  ksnapshot
+  407  ssH -X xmate@213.175.92.22
+  408  ssh -X xmate@213.175.92.22
+  409  exit
+  410  -X x161REB080@213.175.92.37
+  411  ssh -X x161REB080@213.175.92.37
+  412  exit
+  413  ssh -X x141REB129@213.175.92.22
+  414  ssh -X x161REB153@213.175.92.22
+  415  ssh -X x161REB153@213.175.92.37
+  416  ssh -X x161REB153@213.175.92.37
+  417  chromium-browser
+  418  firefox
+  419  matlab
+  420  ssh -X161REB162@213.175.92.22
+  421  ssh -X x161REB162@213.175.92.22
+  422  ssh -X xmate@213.175.92.22
+  423  matlab
+  424  ssh -X x161REB105@213.175.92.22
+  425  exit
+  426  -X x161REB081@213.175.92.37
+  427  ssh -X x161REB081@213.175.92.37
+  428  exit
+  429  ssh -X x161REB080@213.175.92.37
+  430  nano 11222
+  431  ssh - X x141REB129@213.175.92.22
+  432  ssh -X x141REB129@213.175.92.22
+  433  ssh -X x161REB153@213.175.92
+  434  ssh -X x161REB153@213.175.92.22
+  435  ssh -X x161REB153@213.175.92.37
+  436  firefox
+  437  sudo apt-get utorrent install
+  438  matlab
+  439  ssh -X xmate@213.175.92.22
+  440  exit
+  441  R
+  442  ssh -X x991REB294
+  443  r
+  444  matlab
+  445  r
+  446  R
+  447  firefox
+  448  R
+  449  firefox
+  450  ..ssh -X x141REB129@213.175.92.22
+  451  ssh -X x141REB129@213.175.92.22
+  452  ssh -X x161REB153@213.175.92.22
+  453  ssh -X x161REB153@213.175.92.22
+  454  ssh -X x151REB079@213.175.92.37
+  455  firefox
+  456  ssh -X x161REB153@213.175.92.37
+  457  matlab
+  458  exit
+  459  firefox
+  460  exit
+  461  -X xmate@213.175.92.22
+  462  ssh -X xmate@213.175.92.22
+  463  exit
+  464  ssh- X x141REB129@213.175.92.22
+  465  ssh- X x 141REB129@213.175.92.22
+  466  ssh-X x141REB129@213.175.92.22
+  467  ssh- X x141REB129@213.175.92.22
+  468  ssh  -X x141REB129@213.175.92.22
+  469  ssh -X x161REB153@213.175.92.22
+  470  ssh -X x161REB153@213.175.92.22
+  471  ssh -X x161REB153@213.175.92.37
+  472  firefox
+  473  ssh -X xmate@213.175.92.22
+  474  firefox
+  475  exit
+  476  ssh -X x141REB129@231.175.92.22
+  477  ssh -X x141REB129@213.175.92.22
+  478  firefox
+  479  ssh -X x151REB079@213.175.92.22
+  480  ssh -X x161REB153
+  481  ssh -X x161REB153@213.175.92.22
+  482  cromium-browser
+  483  chromium-browser
+  484  ssh -X x161REB153@213.175.92.37
+  485  firefox
+  486  exit
+  487  ssh -x
+  488  firefox
+  489  ssh -X: x163NEB012@213.175.92.22
+  490  ksnapshot
+  491  ssh -X:x163NEB012@213.175.92.22
+  492  ssh -X: x163NEB012@213.175.92.22
+  493  ssh -X x163NEB012@213.175.92.22
+  494  ssh-X x163neb012
+  495  ssh -X x163NEB012@213.175.92.22
+  496  ksnapshot
+  497  - X x141REB129@213.175.92.22
+  498  - X x 141REB129@213.175.92.22
+  499  - X x141REB129@213.175.92.22
+  500  -X x141REB129@213.175.92.22
+  501  ssh- X x141REB129@213.175.92.22
+  502  ssh - X x141REB129@213.175.92.22
+  503  ssh- X x141REB128@213.175.92.22
+  504  ssh -X x141REB128@213.175.92.22
+  505  ssh -X x141REB129@213.175.92.22
+  506  ssh -X x161REB153
+  507  allygrunts1
+  508  ks
+  509  ls
+  510  clear
+  511  ssh -X x161REB153
+  512  ssh -X x161REB153@213.175.92.22
+  513  ssh -X x161REB153@213.175.92.37
+  514  ls
+  515  clear
+  516  ls
+  517  cd desktop
+  518  ls
+  519  cd Desktop
+  520  ls
+  521  clear
+  522  cd
+  523  exit
+  524  firefox
+  525  arnaud
+  526  cfjf]d
+  527  apple
+  528  thong
+  529  ls
+  530  firefox
+  531  exit
+  532  ssh -X xmate@213.175.92.22
+  533  ssh- X x141REB129@213.175.92.22
+  534  ssh-X x141REB129@213.175.92.22
+  535  ssh -X x141REB129@213.175.92.22
+  536  ssh -X x161REB153@213.175.92.22
+  537  ssh
+  538  ssh -X x161REB178@213.175.92.22
+  539  ssh
+  540  ssh -X x161REB178
+  541  ssh
+  542  firefox
+  543  ssh
+  544  ssh -X x161REB178@213.175.92.22
+  545  ssh -X x161REB153@213.175.92.37
+  546  virtualbox 
+  547  matlab
+  548  exit
+  549  snoopy2
+  550  exit
+  551  firefox
+  552  exit
+  553  firefox
+  554  ssh -X x141REB129@213.715.92.22
+  555  ssh- X x141REB129@213.715.92.22
+  556  ssh -X x141REB129@213.715.92.22
+  557  ssh -X x141REB129@213.175.92.22
+  558  uname -a
+  559  uname -i
+  560  chromium-browser
+  561  ssh -X x161REB153@213.175.92.22
+  562  ls
+  563  cd download
+  564  ls
+  565  cd downloads
+  566  ls
+  567  tar xf arduio-1.8.2-linux32.tar.xz
+  568  tar xf arduino-1.8.2-linux32.tar.xz
+  569  ls
+  570  cd arduino-1.8.2
+  571  ls
+  572  clear
+  573  ls
+  574  ./arduino &
+  575  ls
+  576  clear
+  577  firefox
+  578  matlab
+  579  ssh -X xmate@213.175.92.22
+  580  exit
+  581  firefox
+  582  exit
+  583  matlab
+  584  exit
+  585  ssh -X x161REB181@213.175.92.22
+  586  ssh -X x161REB152@213.175.92.22
+  587  ssh 213.175.92.22
+  588  ssh -X x161REB153@213.175.92.22
+  589  firefox
+  590  ssh -X x161REB198@213.175.92.22
+  591  ssh -X x161REB125@213.175.92.22
+  592  firefox
+  593  ls
+  594  cd images
+  595  ls
+  596  edit 161SHEMA2.pnh
+  597  edit 161SHEMA2.png
+  598  161SHEMA2.png
+  599  ssh -X x161REB153@213.175.92.22
+  600  ssh -X x161REB153@213.175.92.22
+  601  ssh -X x161REB153@213.175.92.22
+  602  matlab
+  603  ssh -X x161REB153@213.175.92.22
+  604  ssh -X x161REB125@213.175.92.22
+  605  firefo
+  606  firefox
+  607  cd matlab/html
+  608  cd matlab
+  609  firefox
+  610  exit
+  611  scp x161REB125@213.175.92.22:~/matlab/html/lab05.pdf /home/user/Documents
+  612  scp x161REB125@213.175.92.22:~/matlab/html/lab05.pdf /home/user/documents
+  613  ssh -X x161REB125@213.175.92.22
+  614  firefox
+  615  ssh -X x161REB125@213.175.92.22
+  616  firefox
+  617  matlab
+  618  exit
+  619  exit
+  620  matlab
+  621  exit
+  622  firefox
+  623  exit
+  624  -X x161REB080@213.175.92.37
+  625  ssh -X x161REB080@213.175.92.37
+  626  -X x161REB065@213.175.92.37
+  627  -X x161REB0080@213.175.92.37
+  628  -X x161REB080@213.175.92.37
+  629  ssh -X x161REB065@213.175.92.37
+  630  ssh -X x991REB294@213.175.92.22
+  631  ssh -X x991REB294@213.175.92.22
+  632  ssh -X x161REB153@213.175.92.37
+  633  ls
+  634  ssh -X x161REB153@213.175.92.37
+  635  chromium-browser
+  636  ssh -X x161REB114@213.175.92.37
+  637  exit
+  638  firefox
+  639  ssh -X x161REB233@213.175.92.22
+  640  ssh -X x161REB153@213.175.92.37
+  641  chromium-browser
+  642  ssh -X x161REB153@213.175.92.22
+  643  cd
+  644  ls
+  645  cd downloads
+  646  ls
+  647  cd downloads
+  648  ls
+  649  shema.png
+  650  ssh -X x161REB153@213.175.92.37
+  651  ssh -X x161REB153@213.175.92.37
+  652  chromium-browser
+  653  firefox &
+  654  exit
+  655  uname -r
+  656  lsb_release
+  657  ca
+  658  echo $0
+  659  man uname
+  660  pwd
+  661  whoami
+  662  who
+  663  ls
+  664  ls -l
+  665  ls -a
+  666  ls -l
+  667  ls -la
+  668  man ls
+  669  pwd
+  670  cd D
+  671  cd Documents
+  672  ls -l
+  673  uname -r
+  674  lsb_release
+  675  cat /ets/*-release
+  676  cat/etc/*-release
+  677  cat /etc/*-release
+  678  echo $0
+  679  firefox &
+  680  echo 
+  681  man echo
+  682  pwd
+  683  whoami
+  684  who
+  685  ls
+  686  ls -l
+  687  ls -a
+  688  ls
+  689  ls - la
+  690  la-la
+  691  ls -la
+  692  ls -al
+  693  pwd
+  694  ls
+  695  cd documents/ pwd
+  696  pwd
+  697  ls
+  698  ls -la
+  699  pwd
+  700  cs .
+  701  cd.
+  702  pwd
+  703  cd ..
+  704  pwd
+  705  cd ..
+  706  pwd
+  707  cd ..
+  708  cd .
+  709  cd ~
+  710  pwd
+  711  cd ..
+  712  pwd
+  713  cd
+  714  pwd
+  715  xtc
+  716  help
+  717  assoc
+  718  clear
+  719  help
+  720  test
+  721  times
+  722  clear
+  723  help
+  724  pwd
+  725  clear
+  726  help
+  727  command
+  728  variables
+  729  pwd
+  730  uname -r
+  731  color red
+  732  color
+  733  clear
+  734  lsb_release
+  735  cat /etc/*-release
+  736  help
+  737  clear
+  738  cat /etc/*-release
+  739  echo $0
+  740  edit 161SHEMA2.pnh
+  741  man uname
+  742  man <command> # get
+  743  apt-get install sl
+  744  yum -y install sl
+  745  sl
+  746  telnet towel.blinkenlightes.n
+  747  fortune
+  748  yes
+  749  rev
+  750  whoami
+  751  factor 5
+  752  12
+  753  factor 2017
+  754  factor 12
+  755  who
+  756  Yes :)
+  757  yes :)
+  758  LS
+  759  ls
+  760  apt-get install cmatrix
+  761  while true
+  762  man baby
+  763  xkill
+  764  world
+  765  ls
+  766  ls -a
+  767  ls -la
+  768  ls -l
+  769  cd
+  770  cd Documents/
+  771  pwd
+  772  cd
+  773  cd Documents
+  774  cd Desktop/
+  775  pwd
+  776  q
+  777  pwd
+  778  cd documents
+  779  back
+  780  quit
+  781  cd..
+  782  cd.
+  783  cd..
+  784  ls
+  785  cd
+  786  cd user
+  787  ls -l
+  788  ls- la
+  789  ls -la
+  790  cd .pulse
+  791  pwd
+  792  cd
+  793  cd.
+  794  cdxp
+  795  cd xp
+  796  cd documents/
+  797  cd .
+  798  cd ..
+  799  exit
+  800  pwd
+  801  cd ..
+  802  pwd
+  803  cd /home/user
+  804  pwd
+  805  cd /
+  806  pwd
+  807  cd 
+  808  cd ~
+  809  cd /
+  810  cd
+  811  whoami
+  812  cp a.txt A.txt
+  813  clear
+  814  history
+  815  history > history.txt
+  816  git init
+  817  exit
+  818  info
+  819  help
+  820  sudo
+  821  uname
+  822  lsb-release
+  823  /etc/debian-version
+  824  /etc/gentoo-release
+  825  /etc/fedora-release
+  826  cat /etc/issue
+  827  uname
+  828  uname -r
+  829  uname -a
+  830  cat
+  831  ps-e
+  832  ps
+  833  ps-e
+  834  kill 2726
+  835  pwd
+  836  man pwd
+  837  pwd --version
+  838  -L
+  839  -P
+  840  -x arg
+  841  cd /usr
+  842  cd ~
+  843  cd /usr
+  844  ls
+  845  cd .
+  846  cd ..
+  847  pwd
+  848  ls
+  849  cd
+  850  pwd
+  851  ls
+  852  ls-l
+  853  ls -l
+  854  cd
+  855  q
+  856  touch aaa
+  857  ls
+  858  ls -l
+  859  cp aaa bbb
+  860  ls -l
+  861  cp aaa /
+  862  cp aaa /home/user/Desktop/ccc
+  863  cp aaa /home/user/Desktop/./ccc
+  864  ls Desktop
+  865  ls /
+  866  mv aaa xxx
+  867  ls
+  868  mv xxx Desktop
+  869  ls Desktop/
+  870  mv bbb Desktop/yyy
+  871  ls Desktop/
+  872  man echo
+  873  history
+  874  cd
+  875  color red
+  876  color
+  877  cat /etc/
+  878  cat /etc/init.d.cron
+  879  pwd
+  880  ls
+  881  Desktop
+  882  ls|grep"ccc "
+  883  ls|grep"cc "
+  884  ls > rtu
+  885  ls
+  886  ls -l
+  887  cat rtu
+  888  cat Desktop
+  889  ls
+  890  cat Desktop yyy
+  891  cat Desktop/yyy
+  892  cat xp
+  893  cat Documents
+  894  echo svaiks student
+  895  echo svaiks student > rtu
+  896  cta rtu
+  897  cat rtu
+  898  echo sveiks student >> rtu
+  899  cat rtu
+  900  x183REB@ 213.175.92.22
+  901  ssh x183REB @ 213.175.92.22
+  902  ssh x 183REB @ 213.175.92.22
+  903  ssh x159REB@213.175.92.22
+  904  ssh x183REB@213.175.92.22
+  905  ssh x171REB183@213.175.92.22
+  906  ssh -X x171REB183@213.175.92.22
+  907  >firefox
+  908  firefox
+  909  WHOAMI
+  910  whoami
+  911  who
+  912  pwd
+  913  ls
+  914  ls -l
+  915  cd
+  916  ls -l
+  917  cd Documents/
+  918  cd
+  919  pwd
+  920  ls
+  921  mkdir darbi
+  922  ls
+  923  pwd
+  924  ls
+  925  mkdir darbi 2
+  926  mkdir darbi 3
+  927  mkdir darbi2
+  928  cd darbi2/
+  929  history
+  930  history > history.txt
+  931  ls -la
+  932  cathistory.txt
+  933  cat history.txt
+  934  firefox
+  935  darbs2 it init
+  936  darbs2$ git init
+  937  darbi2$ git init
+  938  $ echo Tecmint is a community of Linux Nerds 
+  939  x=10
+  940  1
+  941  echo The value of variable x = $x 
+  942  The value of variable x = 10 
+  943  echo The value of variable x = $x 
+  944  chrome
+  945  Chrome Web Browser
+  946  chrome web browser
+  947  chrome browser
+  948  chromewebbrowser
+  949  chrome browser 
+  950  chrome browser
+  951  chromium-browser 
+  952  echo *
+  953  ls
+  954  echo "Test Page" > teksts.txt
+  955  pwd
+  956  cd
+  957  ls -l
+  958  cd darbi2
+  959  history > history.txt
+  960  ls -l
+  961  git init
+  962  git add
+  963  git config
+  964  git commit -m "26710235_11_40"
+  965  firefox &
+  966  uname-r
+  967  ls
+  968  cat /etc/*-release
+  969  documents
+  970  pwd documents
+  971  pwd
+  972  Docu
+  973  Documents
+  974  who
+  975  ls
+  976  cd documents
+  977  pwd
+  978  lsb_release
+  979  echo $0
+  980  pwd
+  981  cd -
+  982  cd +
+  983  cs mape8
+  984  cd mape8
+  985  cat
+  986  /home cd
+  987  ls
+  988  documets cd ..
+  989  cd ..
+  990  documents cd
+  991  Documents cd
+  992  cd ..
+  993  /home
+  994  echo #0
+  995  pwd
+  996  ls
+  997  cd ..
+  998  who
+  999  uname -r
+ 1000  documents cd
+ 1001  cat/etc/*-release
+ 1002  pwd etc
+ 1003  etc pwd
+ 1004  cd..
+ 1005  cd ...
+ 1006  cd ..
+ 1007  cd -
+ 1008  pwd
+ 1009  ls
+ 1010  Desktop cd
+ 1011  cd Desktop
+ 1012  cd .
+ 1013  cd ..
+ 1014  pwd
+ 1015  who
+ 1016  ls
+ 1017  ls -l
+ 1018  ls -a
+ 1019  ls
+ 1020  cd Documents
+ 1021  cd documents
+ 1022  pwd
+ 1023  ls
+ 1024  ls -la
+ 1025  cd ..
+ 1026  pwd
+ 1027  cd ..
+ 1028  pwd
+ 1029  cd ..
+ 1030  pwd
+ 1031  ls
+ 1032  pwd
+ 1033  cd ..
+ 1034  cd~
+ 1035  cd
+ 1036  cd ~
+ 1037  pwd
+ 1038  mkdir darbi
+ 1039  mkdir darbi13
+ 1040  ls -l
+ 1041  cd darbi13
+ 1042  history
+ 1043  history > history.txt
