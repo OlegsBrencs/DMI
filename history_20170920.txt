@@ -987,14 +987,21 @@
  1492  mv 
  1493  ls -l
  1494  pwd
+gde ja
  1495  ls
  1496  mv ~/git-download ./
+
  1497  ls -l
  1498  echo $PATH
+sistemas celju papildinashana ar majas 
  1499  PATH=$PATH:~/DMI
+
  1500  git-download 
  1501  ls -l
  1502  rm -rf DMI/
+udalit iz papki
  1503  ls -l
+4to nahoditsja imenno v etoj papke gte ti
  1504  nano git-upload
+delajem skript s nazvaniem git-upload
  1505  history > history_20170920.txt
