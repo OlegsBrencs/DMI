@@ -1,6 +1,26 @@
 #!/bin/bash
+# 4. piemers - operacija ar argumentiem
+if [ $# == 2 ]
+# ja (if) skriptam nodotu argumentu skaits ($#) ir vienads  (==) ar$2
+then
+# tad tiek izpilditas visas sekojosas darbibas lidz ...
+a=$1
+b=$2
+val41=`expr $a + $b`
+echo "$a + $b = "$val41
+val42=`expr $a - $b`
+echo "$a - $b = "$val42
+val43=`expr $a \* $b`
+echo "$a * $b = "$val43
+val44=`expr $a / $b`
+echo "$a / $b = "$val44
+val45=`expr $a % $b`
+echo "$a % $b = "$val45
+#...sai vietai
+fi
 
 # 3. piemers - operacijas ar mainigajiem
+: <<'END'
 a=56
 b=32
 val31=`expr $a + $b`
@@ -13,6 +33,7 @@ val34=`expr $a / $b`
 echo "$a / $b = "$val34
 val35=`expr $a % $b`
 echo "$a % $b = "$val35
+END
 
 # 2. piemers - operacijas ar konstantem
 : <<'END'

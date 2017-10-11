@@ -72,3 +72,29 @@
    72  nano shell_operators.sh 
    73  nano git-upload
    74  history > history_20171011.txt
+   75  ./git upload 2017011_14_10
+   76  ./git-upload
+   77  nano shell_operators.sh 
+   78  ls -ls
+   79  nano apakshdarbi
+   80  nano shell_operators.sh 
+   81  nano shell_operators.sh 5 10
+   82  ./shell_operators.sh 5 10
+   83  ./shell_operators.sh 109 30010
+   84  nano shell_operators.sh 
+   85  ./shell_operators.sh 
+   86  ./shell_operators.sh 1 56
+   87  nano dialogs.sh
+   88  ./dialogs.sh
+   89  nano dialogs.sh
+   90  ./dialogs.sh
+   91  nano dialogs.sh
+   92  ls -la
+   93  chmod 744 dialogs.sh
+   94  ls -la
+   95  ./dialogs.sh
+   96  nano dialogs.sh
+   97  ./dialogs.sh
+   98  nano dialogs.sh
+   99  nano git-upload
+  100  history > history_20171011.txt
