@@ -1,0 +1,47 @@
+    1  VirtualBox --startvm XP
+    2  rm -rf DMI
+    3  ls -l
+    4  git clone https://github.com/OlegsBrencs/DMI
+    5  git clone https://github.com/OlegsBrencs/DMI.git
+    6  rm -rf DMI
+    7  ls -l
+    8  git clone https://github.com/OlegsBrencs/DMI.git
+    9  ls -l
+   10  ls -la
+   11  cd DMI
+   12  ls -la
+   13  nano dialogs.sh
+   14  ls-la
+   15  ls -la
+   16  nano dialogs.sh
+   17  nano a_VS_l.sh
+   18  cat a_VS_l.sh 
+   19  chmod 744 a_VS_l.sh 
+   20  cat a_VS_l.sh 
+   21  ./a_VS_l.sh 
+   22  nano a_VS_l.sh 
+   23  ./a_VS_l.sh 
+   24  nano a_VS_l.sh 
+   25  ./a_VS_l.sh 
+   26  nano a_VS_l.sh 
+   27  ./a_VS_l.sh 
+   28  nano a_VS_l.sh 
+   29  ./a_VS_l.sh 
+   30  nano a_VS_l.sh 
+   31  ./a_VS_l.sh 
+   32  nano a_VS_l.sh 
+   33  ./a_VS_l.sh 
+   34  2
+   35  1
+   36  ./a_VS_l.sh 
+   37  cp a_VS_l.sh a_VS_l_c.sh
+   38  ls -la
+   39  ls -l
+   40  who
+   41  la -l
+   42  nano a_VS_l_c.sh
+   43  gip-upload https://github.com/OlegsBrencs/DMI.git
+   44  gip-upload
+   45  git-upload
+   46  git-upload https://github.com/OlegsBrencs/DMI.git
+   47  history > history_20171018.txt
