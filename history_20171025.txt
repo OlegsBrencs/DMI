@@ -1,0 +1,73 @@
+    1  VirtualBox --startvm XP
+    2  rm -rf DMI
+    3  git clone https://github.com/OlegsBrencs/DMI.git
+    4  cd DMI
+    5  ls -la
+    6  ls -l
+    7  nano a_VS_l_c.sh
+    8  nano if_CO1.sh
+    9  chmod 744 if_CO1.sh
+   10  .//if_CO1.sh
+   11  1
+   12  2
+   13  nano if_CO1.sh 
+   14  chmod 744 if_CO.sh
+   15  .//if_CO1.sh 
+   16  nano if_CO1.sh 
+   17  ./if_CO1.sh 10
+   18  ./if_CO1.sh -10
+   19  ./if_CO1.sh 0
+   20  nano if_CO1.sh 
+   21  ./if_CO1.sh -10
+   22  ./if_CO1.sh 0
+   23  ./if_CO1.sh 10
+   24  nano if_CO1.sh 
+   25  ./if_CO1.sh 10
+   26  ./if_CO1.sh -10
+   27  ./if_CO1.sh 0
+   28  nano if_CO1.sh 
+   29  ./if_CO1.sh 10
+   30  ./if_CO1.sh 0
+   31  ./if_CO1.sh -1-
+   32  nano if_CO1.sh 
+   33  ./if_CO1.sh -10
+   34  ls - l
+   35  ls -l
+   36  ls -la
+   37  a_VS_l_c.sh
+   38  nano a_VS_l_c.sh 
+   39  ./a_VS_l_c.sh
+   40  nano a_VS_l_c.sh 
+   41  ./a_VS_l_c.sh
+   42  nano a_VS_l_c.sh 
+   43  ./a_VS_l_c.sh
+   44  nano a_VS_l_c.sh 
+   45  nano array_loop.sh
+   46  chmod 744 array_loop.sh
+   47  ./array_loop.sh 5 8 9
+   48  nano array_loop.sh
+   49  ./array_loop.sh
+   50  ./array_loop.sh 5 8 9
+   51  ./array_loop.sh 55 68 54
+   52  nano array_loop.sh
+   53  ./array_loop.sh 55 68 54
+   54  nano array_loop.sh
+   55  ./array_loop.sh 55
+   56  2 3 4 5  65675 64 675
+   57  nano array_loop.sh
+   58* 
+   59  nano array_loop.sh
+   60  nano a_VS_l_c.sh 
+   61  nano table.sh
+   62  nano a_VS_l_c.sh 
+   63  nano statistika.sh
+   64  nano a_VS_l_c.sh 
+   65  nano array_loop.sh 2 323 232 23 21
+   66  nano array_loop.sh
+   67  ./array_loop.sh 55 42121 3213 213 213 123 213 2231
+   68  nano array_loop.sh
+   69  git-upload https://github.com/OlegsBrencs/DMI.git
+   70  history > history_20171025
+   71  git-upload https://github.com/OlegsBrencs/DMI.git
+   72  ./a_VS_l_c.sh
+   73  history > history_20171025.txt
